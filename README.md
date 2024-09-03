@@ -5,7 +5,7 @@
 </p>
 </br>
 [link bài gốc]([http://~](https://github.com/Weedle-Image-Processing/PiMage))
-
+##### h5 ở bài này, nhóm thêm chức năng chia sẻ ảnh qua link (ảnh được upload lên trang imgur
 # PiMage
 
 Image Editing Tool with Python and PyQt5
