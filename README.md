@@ -4,6 +4,7 @@
   <img alt="PiMageIcon2" src="./GUI/pimage_2.png" width=100 />
 </p>
 </br>
+[link bài gốc]([http://~](https://github.com/Weedle-Image-Processing/PiMage))
 
 # PiMage
 
@@ -28,6 +29,6 @@ To run this app:
 python PiMage.py
 ```
 
-# Screenshot
 
-![PiMage](./GUI/gui.png)
+
+
