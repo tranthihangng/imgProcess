@@ -26,7 +26,7 @@ QCrop version = 0.0.1
 To run this app:
 
 ```
-python PiMage.py
+python main.py
 ```
 
 
